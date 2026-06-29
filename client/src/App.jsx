@@ -28,6 +28,7 @@ function App() {
       }}
     >
       {message}
+      <h1>currently on laptop</h1>
     </div>
   );
 }
